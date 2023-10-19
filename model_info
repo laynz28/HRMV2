@@ -1,0 +1,9 @@
+{
+  "Zex": {
+    "enable": true,
+    "model_path": "Laynz.pth",
+    "title": "Kanamae Zex",
+    "cover": "",
+    "feature_retrieval_library": "added_IVF138_Flat_nprobe_1.index",
+    "author": "Laynz-id"
+  },
