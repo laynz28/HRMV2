@@ -1,0 +1,22 @@
+{
+    "hololive-id": {
+    "enable": true,
+    "title": "Hololive Indonesia",
+    "folder_path": "hololive-id"
+  },
+    "hololive-jp": {
+    "enable": true,
+    "title": "Hololive Japan",
+    "folder_path": "hololive-jp"
+  },
+    "hololive-en": {
+    "enable": true,
+    "title": "Hololive English",
+    "folder_path": "hololive-en"
+  },
+    "folder": {
+    "enable": true,
+    "title": "folder",
+    "folder_path": "folder"
+  }
+}
